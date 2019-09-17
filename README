@@ -4,3 +4,8 @@ this script:
 2- Feeds random data to the tables
 3- output some stats the the console
 
+
+```
+ruby nhl.rb
+```
+
